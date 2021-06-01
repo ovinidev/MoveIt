@@ -1,0 +1,32 @@
+[
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 50
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 60
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão birada para frente e puxe os dedos para cima",
+    "amount": 20
+  }
+]
